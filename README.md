@@ -1,3 +1,5 @@
+# SUDAH ADA VERSI BARU OPTIMALISASI BISA KE https://github.com/mrfunntastiic/hash256-mine
+
 # HASH Token CPU Miner (Rust)
 
 Port Rust dari `miner.js` di folder induk. Native, multi-threaded, dan jauh lebih cepat dari versi Node.js.
