@@ -22,7 +22,7 @@ Port Rust dari `miner.js` di folder induk. Native, multi-threaded, dan jauh lebi
 ## Build
 
 ```powershell
-cd rust-miner
+cd hash256-cli
 cargo build --release
 ```
 
