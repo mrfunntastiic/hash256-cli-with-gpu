@@ -1,3 +1,5 @@
+# ANOTHER METHOD https://github.com/mrfunntastiic/hash-miner
+
 # SUDAH ADA VERSI BARU OPTIMALISASI BISA KE https://github.com/mrfunntastiic/hash256-mine
 
 # HASH Token CPU Miner (Rust)
